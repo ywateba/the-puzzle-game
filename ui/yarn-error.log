@@ -1,0 +1,53 @@
+Arguments: 
+  /usr/bin/node /usr/local/bin/yarn init -y
+
+PATH: 
+  /home/ywappeti/.cache/cloud-code/installer/google-cloud-sdk/bin:/home/ywappeti/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/bin/remote-cli:/home/ywappeti/.amplify/bin:/home/ywappeti/.local/bin:/home/ywappeti/bin:/usr/local/bin:/home/ywappeti/.local/bin:/home/ywappeti/.amplify/bin:/home/ywappeti/miniconda3/envs/bright/bin:/home/ywappeti/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/Amazon/AWSSAMCLI/bin:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/Amazon/AWSCLIV2:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86:/mnt/c/Program Files (x86)/Common Files/Pulse Secure/TNC Client Plugin:/Docker/host/bin:/mnt/c/Users/Utente/miniconda3/condabin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Amazon/AWSCLI/bin:/mnt/c/Program Files/Git/cmd:/Docker/host/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Program Files/Amazon/AWSSAMCLI/bin:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/nodejs:/mnt/c/Users/Utente/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Utente/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/bin:/mnt/c/Users/Utente/AppData/Roaming/npm:/mnt/c/Program Files/Java/jdk-11.0.14/bin:/mnt/c/librairies/apache-maven-3.8.4/bin:/mnt/c/Program Files/JetBrains/PyCharm Community Edition 2021.3.2/bin:/mnt/c/Gradle/gradle-7.4.2/bin:/mnt/c/sdk/flutter/bin:/snap/bin:/usr/lib/jvm/java-17-oracle/bin:/usr/lib/jvm/java-17-oracle/db/bin:/home/ywappeti/google-cloud-sdk/bin:/home/ywappeti/.nvm/versions/node/v18.20.3/bin:/usr/local/bin:/home/ywappeti/.local/bin:/home/ywappeti/.amplify/bin:/home/ywappeti/.cache/cloud-code/installer/google-cloud-sdk/bin:/home/ywappeti/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/bin/remote-cli:/home/ywappeti/.amplify/bin:/home/ywappeti/.local/bin:/home/ywappeti/bin:/usr/local/bin:/home/ywappeti/.local/bin:/home/ywappeti/.amplify/bin:/home/ywappeti/miniconda3/bin:/home/ywappeti/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/Amazon/AWSSAMCLI/bin:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/Amazon/AWSCLIV2:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86:/mnt/c/Program Files (x86)/Common Files/Pulse Secure/TNC Client Plugin:/Docker/host/bin:/mnt/c/Users/Utente/miniconda3/condabin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Amazon/AWSCLI/bin:/mnt/c/Program Files/Git/cmd:/Docker/host/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Program Files/Amazon/AWSSAMCLI/bin:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/nodejs:/mnt/c/Users/Utente/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Utente/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/bin:/mnt/c/Users/Utente/AppData/Roaming/npm:/mnt/c/Program Files/Java/jdk-11.0.14/bin:/mnt/c/librairies/apache-maven-3.8.4/bin:/mnt/c/Program Files/JetBrains/PyCharm Community Edition 2021.3.2/bin:/mnt/c/Gradle/gradle-7.4.2/bin:/mnt/c/sdk/flutter/bin:/snap/bin:/usr/lib/jvm/java-17-oracle/bin:/usr/lib/jvm/java-17-oracle/db/bin:/home/ywappeti/google-cloud-sdk/bin:/home/ywappeti/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/bin/remote-cli:/home/ywappeti/.amplify/bin:/home/ywappeti/.local/bin:/home/ywappeti/bin:/usr/local/bin:/home/ywappeti/.local/bin:/home/ywappeti/.amplify/bin:/home/ywappeti/miniconda3/bin:/home/ywappeti/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/Amazon/AWSSAMCLI/bin:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/Amazon/AWSCLIV2:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64:/mnt/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86:/mnt/c/Program Files (x86)/Common Files/Pulse Secure/TNC Client Plugin:/Docker/host/bin:/mnt/c/Users/Utente/miniconda3/condabin:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Amazon/AWSCLI/bin:/mnt/c/Program Files/Git/cmd:/Docker/host/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Program Files/Amazon/AWSSAMCLI/bin:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/nodejs:/mnt/c/Users/Utente/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Utente/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2021.3.2/bin:/mnt/c/Users/Utente/AppData/Roaming/npm:/mnt/c/Program Files/Java/jdk-11.0.14/bin:/mnt/c/librairies/apache-maven-3.8.4/bin:/mnt/c/Program Files/JetBrains/PyCharm Community Edition 2021.3.2/bin:/mnt/c/Gradle/gradle-7.4.2/bin:/mnt/c/sdk/flutter/bin:/snap/bin:/usr/lib/jvm/java-17-oracle/bin:/usr/lib/jvm/java-17-oracle/db/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.19.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/ywappeti/bright/ui/package.json: Unexpected token { in JSON at position 373
+      at JSON.parse (<anonymous>)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /usr/local/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "game-app",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-router-dom": "^6.0.0",
+      "styled-components": "^5.3.0"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    {
+      "private": true,
+      "workspaces": [
+        "packages/*"
+      ]
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
